@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Project A - CRUD Functions on a Playlist",
+      "imageSrc": "projects/project.png",
+      "description": "This  is a  project  made to learn  the required programming  languages and perform basic functions  by building an app.                   * Focused on Backend management.",
+      "skills": ["React", "SpringBoot", "Node", "PostgreSQL","MUI "],
+      "demo": "https://www.loom.com/share/d8d20cda0d1c457ebc4277642142a291?sid=f420fec1-9469-47a8-9351-a15c7391defa",
+      "source": "https://github.com/Irezumir"
+    }
+  ]
